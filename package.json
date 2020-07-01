@@ -17,7 +17,5 @@
     "url": "http://www.nobugs.com"
   },
   "homepage": "",
-  "dependencies": {
-    "json2csv": "^5.0.1"
-  }
+  "dependencies": {}
 }
