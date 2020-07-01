@@ -1,0 +1,23 @@
+{
+  "name": "local-currency",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Laura-Louise Tobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://www.nobugs.com"
+  },
+  "homepage": "",
+  "dependencies": {
+    "json2csv": "^5.0.1"
+  }
+}
